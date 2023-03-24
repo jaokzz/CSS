@@ -1,0 +1,14 @@
+<div class="caixa__login">
+	<h2>Administrativo</h2>
+	<form>
+		<div class="caixa__login-intup">
+				<intup type="text" required />
+				<label>Email</label>
+		</div>
+		<div class="caixa__login-intup">
+				<intup type="password" required />
+				<label>Senha</label>
+		</div>
+		<a>Acessar</a>
+	</form>
+</div>
